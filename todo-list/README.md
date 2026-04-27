@@ -20,5 +20,3 @@ A simple task list app built with HTML, CSS, and JavaScript.
 - `style.css` — visual styling and layout polish
 - `script.js` — task management and local storage persistence
 
-## Notes
-This project is ready to upload to GitHub as a small static demo app. You can improve it further by adding a README screenshot, live demo link, or deploy it with GitHub Pages.
